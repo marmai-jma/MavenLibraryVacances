@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90906f5b-b9d4-476d-91d9-ca07a1a202d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries-application/src/main/java/com/bnpp/libraries2/application/LibraryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libraries-domaine/src/main/java/com/bnpp/libraries2/library/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/libraries-domaine/src/main/java/com/bnpp/libraries2/library/Director.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libraries-domaine/src/main/java/com/bnpp/libraries2/library/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/libraries-domaine/src/main/java/com/bnpp/libraries2/library/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libraries-domaine/src/main/java/com/bnpp/libraries2/library/LibraryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/libraries-domaine/src/main/java/com/bnpp/libraries2/library/LibraryRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libraries-domaine/src/main/java/com/bnpp/libraries2/library/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/libraries-domaine/src/main/java/com/bnpp/libraries2/library/Type.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libraries-domaine/src/main/java/com/bnpp/libraries2/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libraries-application/librariesapplication.iml" beforeDir="false" afterPath="$PROJECT_DIR$/libraries-application/librariesapplication.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libraries-application/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/libraries-application/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="findjar.last.used.dir" value="$PROJECT_DIR$/libraries-domaine/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/libraries-domaine/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -72,7 +71,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/libraries-application/librariesapplication.iml" filepath="$PROJECT_DIR$/libraries-application/librariesapplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/libraries-exposition/librariesexposition.iml" filepath="$PROJECT_DIR$/libraries-exposition/librariesexposition.iml" />
       <module fileurl="file://$PROJECT_DIR$/libraries-infrastructure/librariesinfrastructure.iml" filepath="$PROJECT_DIR$/libraries-infrastructure/librariesinfrastructure.iml" />
     </modules>

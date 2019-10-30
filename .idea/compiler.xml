@@ -13,7 +13,6 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="librariesapplication" target="1.5" />
       <module name="librariesexposition" target="1.5" />
       <module name="librariesinfrastructure" target="1.5" />
     </bytecodeTargetLevel>
