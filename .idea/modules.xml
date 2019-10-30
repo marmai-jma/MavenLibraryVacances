@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/libraries-exposition/librariesexposition.iml" filepath="$PROJECT_DIR$/libraries-exposition/librariesexposition.iml" />
-      <module fileurl="file://$PROJECT_DIR$/libraries-infrastructure/librariesinfrastructure.iml" filepath="$PROJECT_DIR$/libraries-infrastructure/librariesinfrastructure.iml" />
     </modules>
   </component>
 </project>
